@@ -1,4 +1,5 @@
 AutoMix
 Bilderbeek's
+Codecov
 Hastie's
 Richèl
